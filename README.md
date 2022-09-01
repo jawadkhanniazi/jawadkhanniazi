@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jawadkhanniazi
+- 👋 Hi, I’m @Hassan
 - 👀 I’m interested in Data sciences
 - 🌱 I’m currently learning Ml $ ANN
 - 💞️ I’m looking to collaborate on ...
