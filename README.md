@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassan
+- 👋 Hi, I’m @Jawad Khan
 - 👀 I’m interested in Data sciences
 - 🌱 I’m currently learning Ml $ ANN
 - 💞️ I’m looking to collaborate on ...
